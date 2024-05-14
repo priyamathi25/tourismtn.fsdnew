@@ -1,0 +1,33 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.places{
+    padding-top: 100px;
+    padding-left: 200px;
+
+}
+
+a{
+    color: aqua;
+    padding-left: 10px;
+    
+}
+.firstphoto{
+    width: 700px;
+    height: 400px;
+    margin-left: 20px;
+}
+.first{
+    padding-top: 20px;
+    
+
+}
